@@ -1,3 +1,6 @@
-.bk-pinboard-data-viz, .vizWrapper{
+.button-module__buttonWithIcon{
   background-image: url("https://media.thoughtspot.com/35707/1603823076-hp1000analysts.jpg?fm=webp&w=2320");
+}
+.button-module__buttonWithIcon svg{
+  display:none;
 }
