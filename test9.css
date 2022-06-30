@@ -1,5 +1,6 @@
 .button-module__button{
   background-image:url('https://docs.thoughtspot.com/home/_images/cloud.png');
+  background-size: 32px 32px;
 }
 .button-module__button svg{
   display:none;
