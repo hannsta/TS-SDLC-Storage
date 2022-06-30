@@ -1,7 +1,7 @@
-.button-module__button{
+[data-testid="share-button"]{
   background-image:url('https://docs.thoughtspot.com/home/_images/cloud.png');
   background-size: 32px 32px;
 }
-.button-module__button svg{
+[data-testid="share-button"] svg{
   display:none;
 }
