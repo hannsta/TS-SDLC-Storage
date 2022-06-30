@@ -1,0 +1,6 @@
+.button-module__buttonWithIcon{
+  background:black;
+}
+.button-module__buttonWithIcon svg{
+  display:none;
+}
